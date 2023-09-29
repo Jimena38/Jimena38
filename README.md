@@ -18,6 +18,7 @@
 
 ### Lenguaje 
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/pranjaljain0)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 ### Contacto
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@brennanbrown.ca)](mailto:mansillajime6@gmail.com)
