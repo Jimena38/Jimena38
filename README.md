@@ -1,6 +1,5 @@
 ## Jimena Mansilla🍂
-<img width="13%" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-
+<img width="30%" src="https://github.com/Jimena38/jimena38/assets/113069344/856f5007-6bbc-4ae9-9b47-7c9556af425d" />
 
 #### Front-end:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
