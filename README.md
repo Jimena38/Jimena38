@@ -1,4 +1,5 @@
-# Jimena Mansilla 👩‍💻
+## Jimena Mansilla
+<img width="13%" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
 #### Front-end:
@@ -11,6 +12,7 @@
 #### Frameworks:
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-django-black?style=flat&logo=django">
 
+
 #### Database:
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 
@@ -20,4 +22,3 @@
 
 #### Contacto:
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@brennanbrown.ca)](mailto:mansillajime6@gmail.com)
-
