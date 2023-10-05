@@ -3,6 +3,7 @@
 
  <img width="30%" src="https://github.com/Jimena38/jimena38/assets/113069344/856f5007-6bbc-4ae9-9b47-7c9556af425d" />
 
+
  Front-end:
  <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -26,3 +27,6 @@ Lenguaje:
 Contacto:
 <br>
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@brennanbrown.ca)](mailto:mansillajime6@gmail.com)
+
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
