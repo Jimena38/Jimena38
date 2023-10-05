@@ -1,4 +1,6 @@
-## Jimena Mansilla🍂
+
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Jimena Mansilla</a> 🍂👋</h1>
 <img width="30%" src="https://github.com/Jimena38/jimena38/assets/113069344/856f5007-6bbc-4ae9-9b47-7c9556af425d" />
 
  Front-end:
